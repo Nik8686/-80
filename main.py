@@ -1,17 +1,3 @@
-# ====================== CONFIGURATION (عدل هنا) ======================
-
-BUY_AMOUNT_SOL = 0.05          # قيمة الصفقة بالـ SOL
-SLIPPAGE_BPS = 800             # السليباج (800 = 8%)
-TAKE_PROFIT_PCT = 120.0        # التيك بروفيت %
-STOP_LOSS_PCT = 50.0           # الستوب لوس %
-
-# RPC
-HELIUS_RPC = "https://mainnet.helius-rpc.com/?api-key=XXXXX"   # حط الـ API Key ديالك
-PUBLIC_WSS_NODES = [
-    "wss://solana-rpc.publicnode.com",
-    "wss://rpc.ankr.com/solana/ws",
-    "wss://api.mainnet-beta.solana.com",
-
 # ============================================================
 # SOLANA EARLY SIGNAL + AUTO BUY/SELL (Hybrid RPC)
 # Public للاستماع | Helius فقط للشراء والبيع

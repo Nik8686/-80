@@ -1,0 +1,7 @@
+aiohttp
+websockets
+solders
+solana
+httpx
+pumpfun-python
+python-dotenv
